@@ -2,6 +2,7 @@
 
 public class TodoItem : BaseAuditableEntity
 {
+    //SMTcoder
     public int ListId { get; set; }
 
     public string? Title { get; set; }
